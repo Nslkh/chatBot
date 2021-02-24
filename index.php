@@ -11,7 +11,7 @@
     <div class="container">
         <div class="chatbox">
             <div class="header">
-                <h4>Chat with Alicia <span class="avail">Online </span></h4>
+                <h4>Chat with Alica <span class="avail">Online </span></h4>
             </div>
             <div class="body" id="chatbody">
                 <div class="scroller"></div>
